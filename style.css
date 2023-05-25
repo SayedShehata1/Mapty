@@ -213,6 +213,14 @@ a:visited {
   border-left: 5px solid var(--color-brand--1);
 }
 
+/* copyright */
+.copyright {
+  margin-top: auto;
+  font-size: 1.3rem;
+  text-align: center;
+  color: var(--color-light--1);
+}
+
 /* reset button */
 .btn {
   background-color: var(--color-dark--2);
