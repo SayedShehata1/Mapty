@@ -241,3 +241,27 @@ a:visited {
 .btn:hover {
   background-color: var(--color-dark--1);
 }
+
+/* INSTRUCTIONS */
+.instructions {
+  background-color: var(--color-dark--2);
+  border-top: 5px solid var(--color-brand--2);
+  border-bottom: 5px solid var(--color-brand--2);
+  border-radius: 5px;
+  padding: 1.5rem 2.25rem;
+  margin-bottom: 1.75rem;
+}
+.instructions__title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 2.2rem;
+  text-align: center;
+}
+.instructions__steps {
+  padding-left: 3rem;
+  font-size: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  margin-bottom: 2rem;
+}
