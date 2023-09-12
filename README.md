@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://mapty-app-sayedshehata.netlify.app/">
-    <img src="./img/icon.png" alt="Logo" height="50"  >
+    <img src="./Img/icon.png" alt="Logo" height="50"  >
   </a>
 
   <h3 align="center">Mapty</h3>
@@ -50,9 +50,9 @@
 
 ## About The Project
 
-![mapty preview](./img/Preview.PNG)
+![mapty preview](./Img//Preview.PNG)
 
-workouts logging page for Cycling and Running using map from [Leaflet library](https://mapty-app-sayedshehata.netlify.app/)
+workouts logging page for Cycling and Running using map from [Leaflet library](https://leafletjs.com/SlavaUkraini/index.html)
 
 - Features :
   - Display location on map
@@ -73,11 +73,11 @@ workouts logging page for Cycling and Running using map from [Leaflet library](h
 
 ### Flowchart
 
-<img src='./img/Mapty-flowchart.png' alt='flowchart' >
+<img src='./Img//Mapty-flowchart.png' alt='flowchart' >
 
 ### Architecture
 
-<img src='./img/Mapty-architecture.png' alt='architecture' >
+<img src='./Img/Mapty-architecture.png' alt='architecture' >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
